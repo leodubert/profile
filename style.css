@@ -1,0 +1,86 @@
+
+
+h1 {
+  color: #1E3651;
+  font-size: 20px;
+  font-family: Roboto
+}
+
+h2 {
+  font-size: 15px;
+  font-family: Roboto
+}
+
+
+body {
+  font-family: Open-Sans;
+  background-color: #1E3651;
+  font-size: 12px
+}
+
+a {
+  color: grey;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: red;
+
+}
+
+p {
+  font-family: Open-Sans;
+  font-size: 12px;
+}
+
+.card {
+  background-color: #FFFAEF;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px #1E3651;
+  text-align: center;
+  padding: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  /* Here goes your CSS */
+}
+
+.img-circle {
+  border-radius: 60%;
+}
+
+.img-around {
+  border: 1px solid lightblue;
+}
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.btn-red {
+    background-color: #1E3651; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+.btn-red:hover {
+    background-color: red; /* Green */
+    color: black;
+}
+
+.margin {
+    padding-right: 43px;
+}
+/* Here goes your CSS */
